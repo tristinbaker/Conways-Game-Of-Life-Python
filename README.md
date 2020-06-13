@@ -1,4 +1,4 @@
-# Conways-Game-Of-Life-Python
+# Conway's Game Of Life in Python
 Implementation of Conway's Game of Life in Python
 
 I started out writing this implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) in order to further my knowledge of how Python works, but I mainly just wanted to write Conway's Game of Life again. I wrote it once in C++ during college, but I forgot most of that development, so this was me having another try at it without any assistance from my professor.
